@@ -1,18 +1,63 @@
-
+body {
+    margin: 0;   /* elimina el margen de los 4 lados del navegador  */
+    background-color: turquoise;
+        
+}
 
 header {
     background-color: darkblue;
-    height: 75px;
-    margin-left: 0;
-    margin-right: 0;
+    height: 100px; 
+    padding-top: 1px; /* Ajusta el header arriba arreglando el margen por defecto del h1 */
 }
 
 h1 {
-    color: white;
+    color: white; 
+    text-align: center;
+}
+
+.texto-resaltado {
+  font-weight: bold;
+}
+
+.fotopeq {
+    width: 220px;
+    height: auto;
+}
+
+.flag {
+    width: 350px;
+    height: auto;
+}
+
+main {
+    margin-left: 20px;
 }
 
 
+img {
+    width: 900px;
+    height: 490px;
+    display: block;     /* centrar la imagen */
+    margin-left: auto;  /* centrar la imagen */
+    margin-right: auto; /* centrar la imagen */
+}
+
+.centroneg {
+    text-align: center;
+    font-weight: bold;
+    font-size: 16px;         
+    font-family: "Courier New";
+}
+
+.texto-justificado {
+    text-align: justify;
+    margin-right: 40px;
+}
+
+
+
 footer {
-    background-color: orange;
+    background-color: gray;
     padding-bottom: 30px;
+    padding: 20px;
 }
