@@ -31,6 +31,8 @@ h1 {
 
 main {
     margin-left: 20px;
+    font-size: 12px;         
+    font-family: "Courier New";
 }
 
 
@@ -54,10 +56,23 @@ img {
     margin-right: 40px;
 }
 
+.enlacefacebook {
+    margin-left: 19px;  
+    margin-right: 19px;
+    color: #0056b3; 
+    text-decoration: none; /* Quita el subrayado */
+}
 
+.enlacelinkedin {
+    margin-left: 19px;  
+    margin-right: 19px;
+    color: #0056b3; 
+    text-decoration: none; /* Quita el subrayado */
+}
 
 footer {
     background-color: gray;
     padding-bottom: 30px;
     padding: 20px;
+    
 }
