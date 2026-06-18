@@ -2,33 +2,31 @@
 
 Proyecto individual - Landing Page (About me).
 
-FrontEnd : HTML5 & CSS3
+FrontEnd : HTML5 y CSS3
 Deberás crear un repositorio de Github llamado "LandingPageAboutMe" en el cual deberás subir el ejercicio realizado en tu repositorio local.
 
 Requisitos:
-- Mediante código html deberás crear una página en HTML y CSS donde os presentareis
-- Deberás crear varias secciones
-•	nombre apellidos y foto
-•	lugar de nacimiento y nacionalidad con texto y foto
-•	pasatiempos (Hobby) con texto y foto
-•	mis estudios y donde los he realizado con texto y foto
-•	Contar un poco vuestro recorrido e historia con texto y foto
-- Generar las fotos con IAgen
-- Deberás realizar los commits pertinentes y pushearlos al  repositorio.                 
-- Por supuesto puedes darle estilos con CSS
-- No se Puede usar una librería CSS (ni Bootstrap, ni Tailwind)
-- La página deberá contar con un HEADER, una MAIN y un FOOTER
-- Lo importante es cuidar la estructura de la pagina.
-- Activar Github Pages
+ Mediante código html deberás crear una página en HTML y CSS donde os presentareis
+ Deberás crear varias secciones
+nombre apellidos y foto, lugar de nacimiento y nacionalidad con texto y foto, pasatiempos (Hobby) con texto y foto,
+mis estudios y donde los he realizado con texto y foto
+Contar un poco vuestro recorrido e historia con texto y foto
+Generar las fotos con IAgen
+Deberás realizar los commits pertinentes y pushearlos al  repositorio.                 
+Por supuesto puedes darle estilos con CSS
+No se Puede usar una librería CSS (ni Bootstrap, ni Tailwind)
+La página deberá contar con un HEADER, una MAIN y un FOOTER
+Lo importante es cuidar la estructura de la pagina.
+Activar Github Pages
 
 Entregable:
-- Enlace al repositorio de Github
-- Una captura de pantalla del resultado
-- Enlace al Github Pages
+Enlace al repositorio de Github
+Una captura de pantalla del resultado
+Enlace al Github Pages
 
 Valoración:
-- Se Valorara la calidad del código HTML y CSS
-- La entrega al Github Pages
+Se Valorara la calidad del código HTML y CSS
+La entrega al Github Pages
 
 # Captura de pantalla
 <img width="1366" height="609" alt="capturapantallalandingpage" src="https://github.com/user-attachments/assets/46850e60-3198-4d1a-8999-105ca747b583" />
