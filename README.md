@@ -2,7 +2,7 @@
 
 Proyecto individual - Landing Page (About me).
 
-FrontEnd : HTML5 y CSS3
+FrontEnd : HTML5 y CSS3.
 Deberás crear un repositorio de Github llamado "LandingPageAboutMe" en el cual deberás subir el ejercicio realizado en tu repositorio local.
 
 Requisitos:
